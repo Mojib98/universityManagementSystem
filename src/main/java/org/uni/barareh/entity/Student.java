@@ -1,6 +1,6 @@
-package org.barareh.entity;
+package org.uni.barareh.entity;
 
-import org.barareh.entity.enumeration.StudentType;
+import org.uni.barareh.entity.enumeration.StudentType;
 
 import java.util.Date;
 public  class Student extends Person{

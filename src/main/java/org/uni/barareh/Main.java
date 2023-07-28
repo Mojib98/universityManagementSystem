@@ -1,4 +1,4 @@
-package org.barareh;
+package org.uni.barareh;
 
 public class Main {
     public static void main(String[] args) {

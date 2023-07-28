@@ -1,6 +1,6 @@
-package org.barareh.entity;
+package org.uni.barareh.entity;
 
-import org.barareh.entity.enumeration.EmployeeType;
+import org.uni.barareh.entity.enumeration.EmployeeType;
 
 public class Employee extends Person{
     private String employeeCode;
