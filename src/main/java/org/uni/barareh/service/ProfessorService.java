@@ -1,8 +1,4 @@
 package org.uni.barareh.service;
 
-public class ProfessorService {
-    /*todo:
-    *
-    *
-    * */
+public interface ProfessorService {
 }
